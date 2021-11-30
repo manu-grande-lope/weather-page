@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/weather-page/static/css/main.2f4fb393.chunk.css",
+    "main.js": "/weather-page/static/js/main.0297df05.chunk.js",
+    "main.js.map": "/weather-page/static/js/main.0297df05.chunk.js.map",
+    "runtime-main.js": "/weather-page/static/js/runtime-main.f9afb9a6.js",
+    "runtime-main.js.map": "/weather-page/static/js/runtime-main.f9afb9a6.js.map",
+    "static/js/2.1fa5d618.chunk.js": "/weather-page/static/js/2.1fa5d618.chunk.js",
+    "static/js/2.1fa5d618.chunk.js.map": "/weather-page/static/js/2.1fa5d618.chunk.js.map",
+    "static/js/3.0b333864.chunk.js": "/weather-page/static/js/3.0b333864.chunk.js",
+    "static/js/3.0b333864.chunk.js.map": "/weather-page/static/js/3.0b333864.chunk.js.map",
+    "index.html": "/weather-page/index.html",
+    "static/css/main.2f4fb393.chunk.css.map": "/weather-page/static/css/main.2f4fb393.chunk.css.map",
+    "static/js/2.1fa5d618.chunk.js.LICENSE.txt": "/weather-page/static/js/2.1fa5d618.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/weather-page/static/media/Background.b8048702.png",
+    "static/media/MinecraftBold-nMK1.a9b3bc2a.otf": "/weather-page/static/media/MinecraftBold-nMK1.a9b3bc2a.otf",
+    "static/media/MinecraftRegular-Bmg3.82ba0891.otf": "/weather-page/static/media/MinecraftRegular-Bmg3.82ba0891.otf",
+    "static/media/OrbitronBold-93z0.77a7b9a8.otf": "/weather-page/static/media/OrbitronBold-93z0.77a7b9a8.otf",
+    "static/media/OrbitronLight-lqBq.aec28192.otf": "/weather-page/static/media/OrbitronLight-lqBq.aec28192.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9afb9a6.js",
+    "static/js/2.1fa5d618.chunk.js",
+    "static/css/main.2f4fb393.chunk.css",
+    "static/js/main.0297df05.chunk.js"
+  ]
+}
